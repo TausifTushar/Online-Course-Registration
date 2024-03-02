@@ -1,0 +1,76 @@
+[
+    {
+      "id": "CSCI101",
+      "course_name": "Introduction to C Programming",
+      "price": "3000",
+      "duration": 1,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.s.",
+      "image_url": "https://i.ibb.co/pKKSLWV/Rectangle-2.png"
+    },
+    {
+      "id": "DS101",
+      "course_name": "Introduction to Algorithms",
+      "price": "15000",
+      "duration": 2,
+      "description": "Learn the basics of data analysis, statistics, and machine learning.",
+      "image_url": "https://i.ibb.co/xJqyFhj/Rectangle-2-3.png"
+      
+    },
+    {
+      "id": "WEBDEV202",
+      "course_name": "Introduction to C++ for DSA",
+      "price": "5000",
+      "duration": 3,
+      "description": "Intensive training in front-end and back-end web development.",
+      "image_url": "https://i.ibb.co/Qjs05Kx/Rectangle-2-4.png"
+
+    },
+    {
+      "id": "ACCT101",
+      "course_name": "Basic Data Structures",
+      "price": "11000",
+      "duration": 14,
+      "description": "Learn the principles of financial accounting and reporting.",
+      "image_url": "https://i.ibb.co/yPS4WMr/Rectangle-3.png"
+    },
+    {
+      "id": "LANG202",
+      "course_name": "Introduction to OOP Python",
+      "price": "7000",
+      "duration": 6,
+      "description": "Immerse yourself in the Spanish language and culture.",
+      "image_url": "https://i.ibb.co/fQJJXLf/Rectangle-2.png"
+    },
+    {
+      "id": "MKTG301",
+      "course_name": "Software Engineering",
+      "price": "9000",
+      "duration": 10,
+      "description": "Learn the latest digital marketing tactics and strategies.",
+      "image_url": "https://i.ibb.co/PhnY64T/Rectangle-2-5.png"
+    },
+    {
+      "id": "AIETHICS401",
+      "course_name": "AWS, Cloud Computing",
+      "price": "4000",
+      "duration": 8,
+      "description": "Explore the ethical implications of AI and machine learning.",
+      "image_url": "https://i.ibb.co/64VzQ2Y/Rectangle-2-6.png"
+    },
+    {
+      "id": "ENVSCI201",
+      "course_name": "Database (MySQL)",
+      "price": "8000",
+      "duration": 12,
+      "description": "Study the impact of human activities on the environment and sustainable practices.",
+      "image_url": "https://i.ibb.co/5jY2kj8/Rectangle-2-1.png"
+    },
+    {
+      "id": "GD101",
+      "course_name": "Problem-Solving Part",
+      "price": "10000",
+      "duration": 10,
+      "description": "Develop your graphic design skills and unleash your creativity.",
+      "image_url": "https://i.ibb.co/RC9gY2p/Rectangle-3-1.png"
+    }
+  ]
